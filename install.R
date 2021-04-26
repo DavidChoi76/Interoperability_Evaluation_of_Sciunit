@@ -1,0 +1,13 @@
+gdal
+r-sp
+r-XML
+r-rgdal
+r-remotes
+r-rgrass7>=0.1-12
+r-units
+r-sf
+r-stars
+r-openssl
+r-curl
+r-httr
+r-devtools
